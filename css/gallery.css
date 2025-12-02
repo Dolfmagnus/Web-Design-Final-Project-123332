@@ -39,7 +39,7 @@
 .gallery-grid-item {
     background-color: var(--white);
     border-radius: 12px;
-    border: 1px solid var(--dark-red);
+    border: 1px solid var(--border);
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
