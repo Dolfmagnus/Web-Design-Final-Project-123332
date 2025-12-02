@@ -75,12 +75,14 @@
 .aboutus-section {
     padding: 60px 0;
     background-color: #f0f0f0;
+    border: 2px solid #B02117;
+
 }
 
 .image-background {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    border: 2px solid #B02117 !important;
+    border: 2px solid #B02117;
     background-color: white;
     min-height: 400px;
     background-image: url('../images/car-background1.jpg');
