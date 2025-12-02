@@ -15,7 +15,7 @@
 }
 
 .maintinence-section, .custom-fab-section, .restoration-section {
-    margin-bottom: 40px;
+    display: flex;
     background-color: white;
     padding: 80px;
     width: 70%;
@@ -66,3 +66,7 @@
     padding-top: 20px;
 }
 
+.services-column{
+    display: flex;
+    
+}
