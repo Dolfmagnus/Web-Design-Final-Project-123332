@@ -80,7 +80,7 @@
 .image-background {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    border: 2px solid #B02117;
+    border: 2px solid #B02117 !important;
     background-color: white;
     min-height: 400px;
     background-image: url('../images/car-background1.jpg');
