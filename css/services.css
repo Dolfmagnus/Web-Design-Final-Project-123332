@@ -59,3 +59,18 @@
     color: #666;
     font-style: italic;
 }
+
+.main {
+    width: 100%;
+    background-color: #e8e8e8;
+    padding-top: 20px;
+}
+
+.main-background {
+    position: relative;
+    height: 600px;
+    background-image: url('../images/logo.svg');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
