@@ -1,3 +1,5 @@
+
+
 .opening-image {
     width: 100%;
     height: 600px;
@@ -37,7 +39,7 @@
 .gallery-grid-item {
     background-color: var(--white);
     border-radius: 12px;
-    border: 1px solid var(--border);
+    border: 1px solid var(--dark-red);
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
