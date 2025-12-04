@@ -23,6 +23,7 @@
 }
 
 .main-content h1 {
+    font-family: "Michroma" , sans-serif;
     font-size: 3em;
     font-weight: 400;
     color: var(--white);
