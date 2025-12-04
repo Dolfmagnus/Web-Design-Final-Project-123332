@@ -35,6 +35,7 @@
 
 .services-grid h2 {
     font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
 
     font-size: 2em;
     font-weight: 400;
@@ -102,6 +103,8 @@
 }
 
 .aboutus-content h2 {
+    font-family: "Michroma", sans-serif;
+
     font-size: 2em;
     font-weight: 400;
     margin-bottom: 20px;
