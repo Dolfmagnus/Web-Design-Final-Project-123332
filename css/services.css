@@ -73,6 +73,7 @@
   height: 400px; 
   width: 100%;
   overflow: hidden;
+  background-repeat: no-repeat;
   position: relative;
   background-image: url(../images/galleryimgs/car8.jpg);
   background-position: center, bottom;
