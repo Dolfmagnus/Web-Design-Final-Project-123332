@@ -71,8 +71,10 @@
     
 }
 .top-banner {
-  width: 100%;
-  height: 400px; /* Adjust height as needed */
+  margin-top: 80px; 
+
+    width: 100%;
+  height: 400px; 
   overflow: hidden;
   position: relative;
 }
@@ -94,5 +96,5 @@
   text-align: center;
 }
 .main{
-    padding-top: 100px; /* accounts for fixed nav */
+    padding-top: 100px;
 }
